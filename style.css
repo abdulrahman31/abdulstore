@@ -1,0 +1,15 @@
+.content 
+ {
+   width:800px;
+   margin:20px auto;
+   background-color:#33f;
+   padding:10px;
+  
+ }
+ .content > div
+ {
+    background-color:#080;
+    color:#FFF;
+     padding:10px;
+    margin-bottom:10px;
+ }
